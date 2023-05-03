@@ -1,0 +1,197 @@
+.total{
+    height: 1200px;
+    width: 100%;
+    background-color: rgb(218, 213, 213);
+}
+.itemtotal{
+    height: 80%;
+    width: 70%;
+    position: relative;
+    left: 15%;
+
+}
+.items{
+    width: 75%;
+    height: 95%;
+    float: left;
+    position: relative;
+    left: 3%;
+    top: 5%;
+}
+.items p{
+    color: gray;
+    margin: 0px;
+    float: left;
+    padding-left:8px;
+}
+.itemsFirst{
+    width: 100%;
+    height: 35%;
+    overflow: hidden;
+}
+.itemsFirst1{
+    background-color: white;
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 1%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.plant1{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(216, 221, 226);
+}
+.plant1img{
+    height: 100%;
+    width: 80%;
+    position: relative;
+    left: 10%;
+}
+.textitem{
+    height: 50%;
+    width: 100%;
+    background-color: white;
+}
+.textitem h1{
+    font-size: 15px;
+    padding: 0;
+    margin: 0;
+}
+
+.itemsFirst2{
+    background-color: white;
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.coffee{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(216, 221, 226);
+}
+.coffeeimg{
+    height: 80%;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.itemsFirst3{
+    height: 90%;
+    width: 30%;
+    float: left;
+    position: relative;
+    top: 5%;
+    left: 9%;
+    box-shadow: 0px 0px  5px;
+}
+.camera{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(216, 221, 226);
+}
+.cameraimg{
+    height: 80%;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.itemsSecond{
+    width: 100%;
+    height: 35%;
+    overflow: hidden;
+    margin-top: 2%;
+}
+.itemsSecond1{
+    background-color: white;
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 1%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.bag{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(216, 221, 226);
+}
+.bagimg{
+    height: 80%;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.itemsSecond2{
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.itemsSecond3{
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 9%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.itemsThird{
+    width: 100%;
+    height: 35%;
+    margin-top: 2%;
+}
+.itemsThird1{
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 1%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.morni{
+    height: 50%;
+    width: 100%;
+    background-color: rgb(216, 221, 226);
+}
+.morniimg{
+    height: 80%;
+    width: 40%;
+    position: relative;
+    left: 30%;
+    top: 10%;
+}
+.itemsThird2{
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 5%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+.itemsThird3{
+    height: 90%;
+    width: 30%;
+    position: relative;
+    top: 5%;
+    left: 9%;
+    float: left;
+    box-shadow: 0px 0px  5px;
+}
+

@@ -1,0 +1,40 @@
+
+.topbar{
+    background-color: gray;
+    height: 200px;
+    width: 100%;
+}
+.topbar li{
+    float: left;
+    position: relative;
+    left: 200px;
+    margin-left: 60px;
+}
+ul{
+    list-style: none;
+}
+.img1{
+    height: 70px;
+    width: 90px;
+}
+.input1{
+    position: relative;
+    top: 20px;
+    width: 300px;
+}
+.icon{
+    height: 40px;
+    width: 50px;
+    position: relative;
+    top: 10px;
+}
+.categories{
+    position: relative;
+    top: 12px;
+    font-size: 30px;
+}
+.img3{
+    height: 45px;
+    position: relative;
+    top: 15px;
+}
